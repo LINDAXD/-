@@ -1,0 +1,10 @@
+#Server
+server:
+  port: 8094
+
+  #SpringBoot Logo
+spring :
+ main:
+  banner-mode : "off"
+
+
